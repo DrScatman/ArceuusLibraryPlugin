@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ArceuusLibrary:jar">
+    <output-path>$USER_HOME$/Documents/RSPeer/scripts</output-path>
+    <root id="archive" name="ArceuusLibrary.jar">
+      <element id="module-output" name="ArceuusLibrary" />
+    </root>
+  </artifact>
+</component>
